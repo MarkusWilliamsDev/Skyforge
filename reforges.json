@@ -1,0 +1,64 @@
+{
+  "reforge_category": {
+    "sword_and_rod": { 
+      "Gentle": {
+        "Common": {
+          "strength": 3,
+          "attack_speed": 8
+        },
+        "Uncommon": {
+          "strength": 5,
+          "attack_speed": 10
+        },
+        "Rare": {
+          "strength": 7,
+          "attack_speed": 15
+        },
+        "Epic": {
+          "strength": 10,
+          "attack_speed": 20
+        },
+        "Legendary": {
+          "strength": 15,
+          "attack_speed": 25
+        },
+        "Mythic": {
+          "strength": 20,
+          "attack_speed": 30
+        }
+      },
+      "Odd": {
+        "Common": {
+          "crit_chance": 12,
+          "crit_damage": 10,
+          "intelligence": -5 
+        },
+        "Uncommon": {
+          "crit_chance": 15,
+          "crit_damage": 15,
+          "intelligence": -10 
+        },
+        "Rare": {  
+          "crit_chance": 15,
+          "crit_damage": 15,
+          "intelligence": -18 
+        },
+        "Epic": {
+          "crit_chance": 20,
+          "crit_damage": 22,
+          "intelligence": -32 
+        },
+        "Legendary": {
+          "crit_chance": 25,
+          "crit_damage": 30,
+          "intelligence": -50 
+        },
+        "Mythic": {
+          "crit_chance": 30,
+          "crit_damage": 40,
+          "intelligence": -75 
+        }
+      }
+    }
+  }
+}
