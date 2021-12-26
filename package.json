@@ -1,0 +1,11 @@
+{
+  "name": "skyforge",
+  "version": "1.0.0",
+  "description": "Hypixel Skyblock project to optimize reforges",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Markus Williams",
+  "license": "ISC"
+}
