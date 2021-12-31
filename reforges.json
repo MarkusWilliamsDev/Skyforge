@@ -224,6 +224,152 @@
         "​​​​Legendary": "+15  HP+2  Spd+125  Int",
         "​​​​​Mythic": "+20  HP+3  Spd+150  Int"
       }
-    }
+    },
+    "accessory": {
+      "Bizarre": {
+         "Common": "+1  HP+1  Str-1%  CD+6  Int",
+         "​Uncommon": "+1  HP+2  Str-2%  CD+8  Int",
+         "​​Rare": "+1  HP+2  Str-2%  CD+10  Int",
+         "​​​Epic": "+1  HP+3  Str-3%  CD+14  Int",
+         "​​​​Legendary": "+1  HP+5  Str-5%  CD+20  Int",
+         "​​​​​Mythic": "+2  HP+7  Str-7%  CD+30  Int"
+      },
+      "Itchy": {
+         "Common": "+1  Str+3%  CD",
+         "​Uncommon": "+1  Str+4%  CD",
+         "​​Rare": "+1  Str+5%  CD+1%  AS",
+         "​​​Epic": "+2  Str+7%  CD+1%  AS",
+         "​​​​Legendary": "+3  Str+10%  CD+1%  AS",
+         "​​​​​Mythic": "+4  Str+15%  CD+1%  AS"
+      },
+      "Ominous": {
+         "Common": "+1  HP+1  Def+1  Str+1%  CD",
+         "​Uncommon": "+1  HP+1  Def+1  Str+1%  CD+1  Int",
+         "​​Rare": "+2  HP+1  Def+1  Str+1%  CD+2  Int",
+         "​​​Epic": "+3  HP+2  Def+2  Str+1%  CD+3  Int",
+         "​​​​Legendary": "+4  HP+3  Def+3  Str+1%  CD+4  Int",
+         "​​​​​Mythic": "+5  HP+5  Def+4  Str+1%  CD+5  Int"
+      },
+      "Pleasant": {
+         "Common": "+4  Def",
+         "​Uncommon": "+5  Def",
+         "​​Rare": "+7  Def",
+         "​​​Epic": "+10  Def",
+         "​​​​Legendary": "+15  Def",
+         "​​​​​Mythic": "+20  Def"
+      },
+      "Pretty": {
+         "Common": "+1  HP+3  Int",
+         "​Uncommon": "+1  HP+4  Int",
+         "​​Rare": "+2  HP+6  Int+1%  AS",
+         "​​​Epic": "+2  HP+1  Spd+9  Int+1%  AS",
+         "​​​​Legendary": "+3  HP+1  Spd+13  Int+1%  AS",
+         "​​​​​Mythic": "+4  HP+2  Spd+18  Int+1%  AS"
+      },
+      "Shiny": {
+         "Common": "+4  HP+1  Int",
+         "​Uncommon": "+5  HP+2  Int",
+         "​​Rare": "+7  HP+2  Int",
+         "​​​Epic": "+10  HP+3  Int",
+         "​​​​Legendary": "+15  HP+5  Int",
+         "​​​​​Mythic": "+20  HP+5  Int"
+      },
+      "Simple": {
+         "Common": "+1  HP+1  Def+1  Str+1%  CD+1  Spd+1  Int",
+         "​Uncommon": "+1  HP+1  Def+1  Str+1%  CD+1  Spd+1  Int",
+         "​​Rare": "+1  HP+1  Def+1  Str+1%  CD+1  Spd+1  Int",
+         "​​​Epic": "+1  HP+1  Def+1  Str+1%  CD+1  Spd+1  Int",
+         "​​​​Legendary": "+1  HP+1  Def+1  Str+1%  CD+1  Spd+1  Int",
+         "​​​​​Mythic": "+1  HP+2  Def+1  Str+1%  CD+1  Spd+1  Int"
+      },
+      "Strange": {
+         "Common": "+2  Str+1%  CD+1  Spd+1  Int-1%  AS",
+         "​Uncommon": "+3  Def+1  Str+2%  CD-1  Int+2%  AS",
+         "​​Rare": "+2  Def-1  Str+1  Spd+2  Int",
+         "​​​Epic": "-1  Def+3  Str+1%  CD+4%  AS",
+         "​​​​Legendary": "+1  Def+3  Spd+7%  CD+8  Int",
+         "​​​​​Mythic": "+4  Str+9%  CD+5%  AS+1  Def+3  Spd+11  Int"
+      },
+      "Vivid": {
+         "Common": "+1  HP+1  Spd",
+         "​Uncommon": "+2  HP+2  Spd",
+         "​​Rare": "+3  HP+3  Spd",
+         "​​​Epic": "+4  HP+4  Spd",
+         "​​​​Legendary": "+5  HP+5  Spd",
+         "​​​​​Mythic": "+6  HP+6  Spd"
+      },
+      "Godly": {
+         "Common": "+1  Str+2%  CD+1  Int",
+         "​Uncommon": "+2  Str+2%  CD+1  Int",
+         "​​Rare": "+3  Str+3%  CD+1  Int",
+         "​​​Epic": "+5  Str+4%  CD+2  Int",
+         "​​​​Legendary": "+7  Str+6%  CD+4  Int",
+         "​​​​​Mythic": "+10  Str+8%  CD+6  Int"
+      },
+      "Demonic": {
+         "Common": "+1  Str+5  Int",
+         "​Uncommon": "+2  Str+7  Int",
+         "​​Rare": "+2  Str+9  Int",
+         "​​​Epic": "+3  Str+12  Int",
+         "​​​​Legendary": "+5  Str+17  Int",
+         "​​​​​Mythic": "+7  Str+24  Int"
+      },
+      "Forceful": {
+         "Common": "+4  Str",
+         "​Uncommon": "+5  Str",
+         "​​Rare": "+7  Str",
+         "​​​Epic": "+10  Str",
+         "​​​​Legendary": "+15  Str",
+         "​​​​​Mythic": "+20  Str"
+      },
+      "Hurtful": {
+         "Common": "+4%  CD",
+         "​Uncommon": "+5%  CD",
+         "​​Rare": "+7%  CD",
+         "​​​Epic": "+10%  CD",
+         "​​​​Legendary": "+15%  CD",
+         "​​​​​Mythic": "+20%  CD"
+      },
+      "Keen": {
+         "Common": "+1  HP+1  Def+1  Int",
+         "​Uncommon": "+2  HP+2  Def+1  Int",
+         "​​Rare": "+3  HP+3  Def+2  Int",
+         "​​​Epic": "+4  HP+4  Def+3  Int",
+         "​​​​Legendary": "+5  HP+5  Def+5  Int",
+         "​​​​​Mythic": "+7  HP+7  Def+7  Int"
+      },
+      "Strong": {
+         "Common": "+1  Str+1%  CD",
+         "​Uncommon": "+2  Str+2%  CD",
+         "​​Rare": "+3  Str+3%  CD+1  Def",
+         "​​​Epic": "+5  Str+5%  CD+2  Def",
+         "​​​​Legendary": "+8  Str+8%  CD+3  Def",
+         "​​​​​Mythic": "+12  Str+12%  CD+4  Def"
+      },
+      "Superior": {
+         "Common": "+2  Str+2%  CD",
+         "​Uncommon": "+3  Str+2%  CD",
+         "​​Rare": "+4  Str+2%  CD",
+         "​​​Epic": "+5  Str+3%  CD",
+         "​​​​Legendary": "+7  Str+3%  CD",
+         "​​​​​Mythic": "+10  Str+5%  CD"
+      },
+      "Unpleasant": {
+         "Common": "+1%  CC",
+         "​Uncommon": "+1%  CC",
+         "​​Rare": "+1%  CC",
+         "​​​Epic": "+2%  CC",
+         "​​​​Legendary": "+2%  CC",
+         "​​​​​Mythic": "+3%  CC"
+      },
+      "Zealous": {
+         "Common": "+1  Str+1%  CD+1  Int",
+         "​Uncommon": "+2  Str+2%  CD+2  Int",
+         "​​Rare": "+2  Str+2%  CD+1  Spd+2  Int",
+         "​​​Epic": "+3  Str+3%  CD+1  Spd+3  Int",
+         "​​​​Legendary": "+5  Str+5%  CD+1  Spd+5  Int",
+         "​​​​​Mythic": "+7  Str+7%  CD+2  Spd+7  Int"
+      }
+   }
   }
 }
