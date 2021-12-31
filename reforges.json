@@ -370,6 +370,125 @@
          "​​​​Legendary": "+5  Str+5%  CD+1  Spd+5  Int",
          "​​​​​Mythic": "+7  Str+7%  CD+2  Spd+7  Int"
       }
-   }
+    },
+    "tool": {
+      "Moil": {
+         "Source": "Axe with Moil Log",
+         "Reforge Special Effect": "Gain +X% foraging exp.",
+         "Common": "+1% Foraging Exp",
+         "​Uncommon": "+1% Foraging Exp",
+         "​​Rare": "+2% Foraging Exp",
+         "​​​Epic": "+2% Foraging Exp",
+         "​​​​Legendary": "+3% Foraging Exp"
+      },
+      "Toil": {
+         "Source": "Axe with Toil Log",
+         "Reforge Special Effect": "Gain +X% foraging exp.",
+         "Common": "+5  Strength+5%  Crit Damage +1% Foraging Exp",
+         "​Uncommon": "+7  Strength+7%  Crit Damage +2% Foraging Exp",
+         "​​Rare": "+9  Strength+9%  Crit Damage +3% Foraging Exp",
+         "​​​Epic": "+13  Strength+13%  Crit Damage +4% Foraging Exp",
+         "​​​​Legendary": "+16  Strength+16%  Crit Damage +5% Foraging Exp"
+      },
+      "Blessed": {
+         "Source": "Hoe/Axe with Blessed Fruit",
+         "Reforge Special Effect": "Gain +X% farming exp & +X  Farming Fortune.",
+         "Common": "+5  Speed+5  Farming Fortune +1% Farming Exp",
+         "​Uncommon": "+7  Speed+7  Farming Fortune +2% Farming Exp",
+         "​​Rare": "+9  Speed+9  Farming Fortune +3% Farming Exp",
+         "​​​Epic": "+13  Speed+13  Farming Fortune +4% Farming Exp",
+         "​​​​Legendary": "+16  Speed+16  Farming Fortune +5% Farming Exp"
+      },
+      "Bountiful": {
+         "Source": "Hoe/Axe[Confirm] with Golden Ball",
+         "Reforge Special Effect": "Gain 0.2 coins per crop harvested & +X  Farming Fortune.",
+         "Common": "+1  Speed+1  Farming Fortune",
+         "​Uncommon": "+2  Speed+2  Farming Fortune",
+         "​​Rare": "+3  Speed+3  Farming Fortune",
+         "​​​Epic": "+5  Speed+5  Farming Fortune",
+         "​​​​Legendary": "+7  Speed+7  Farming Fortune"
+      },
+      "Magnetic": {
+         "Source": "Pickaxe/Drill with Lapis Crystal",
+         "Reforge Special Effect": "Gain +X% extra experience when mining.",
+         "Common": "+4  Defense +10% Experience",
+         "​Uncommon": "+5  Defense +12% Experience",
+         "​​Rare": "+6  Defense +14% Experience",
+         "​​​Epic": "+8  Defense +16% Experience",
+         "​​​​Legendary": "+10  Defense +18% Experience"
+      },
+      "Fruitful": {
+         "Source": "Pickaxe/Drill with Onyx",
+         "Reforge Special Effect": "Grants +3  Mining Speed.",
+         "Common": "+3  Defense+1  Intelligence",
+         "​Uncommon": "+4  Defense+1  Intelligence",
+         "​​Rare": "+5  Defense+1  Intelligence",
+         "​​​Epic": "+7  Defense+1  Intelligence",
+         "​​​​Legendary": "+9  Defense+1  Intelligence"
+      },
+      "Refined": {
+         "Source": "Pickaxe/Drill with Refined Amber",
+         "Reforge Special Effect": "Gain +X% mining exp and a 0.1% chance to drop an enchanted block for mined ores.",
+         "Common": "+5  Defense +1% Mining Exp",
+         "​Uncommon": "+7  Defense +2% Mining Exp",
+         "​​Rare": "+9  Defense +3% Mining Exp",
+         "​​​Epic": "+13  Defense +4% Mining Exp",
+         "​​​​Legendary": "+16  Defense +5% Mining Exp"
+      },
+      "Stellar": {
+         "Source": "Pickaxe/Drill with Petrified Starfall",
+         "Reforge Special Effect": "Deals +1 extra damage to Star Sentries and grants a +20% chance for them to drop Starfall.",
+         "Common": "+5  Defense+5  Strength+3  Mining Speed",
+         "​Uncommon": "+8  Defense+8  Strength+6  Mining Speed",
+         "​​Rare": "+12  Defense+12  Strength+9  Mining Speed",
+         "​​​Epic": "+16  Defense+16  Strength+12  Mining Speed",
+         "​​​​Legendary": "+20  Defense+20  Strength+15  Mining Speed"
+      },
+      "Mithraic": {
+         "Source": "Pickaxe/Drill with Pure Mithril",
+         "Reforge Special Effect": "Grants a 10% chance to gain 1 extra Mithril when mining Mithril Ore.",
+         "Common": "+6  Mining Speed",
+         "​Uncommon": "+12  Mining Speed",
+         "​​Rare": "+20  Mining Speed",
+         "​​​Epic": "+30  Mining Speed",
+         "​​​​Legendary": "+40  Mining Speed"
+      },
+      "Auspicious": {
+         "Source": "Pickaxe/Drill with Rock Gemstone",
+         "Reforge Special Effect": "Grants +8  Mining Speed.",
+         "Common": "+7  Mining Speed",
+         "​Uncommon": "+14  Mining Speed",
+         "​​Rare": "+23  Mining Speed",
+         "​​​Epic": "+34  Mining Speed",
+         "​​​​Legendary": "+45  Mining Speed"
+      },
+      "Fleet": {
+         "Source": "Pickaxe/Drill with Diamonite",
+         "Reforge Special Effect": "Grants +X  Mining Fortune.",
+         "Common": "+9  Mining Speed",
+         "​Uncommon": "+15  Mining Speed",
+         "​​Rare": "+25  Mining Speed",
+         "​​​Epic": "+40  Mining Speed",
+         "​​​​Legendary": "+55  Mining Speed"
+      },
+      "Heated": {
+         "Source": "Pickaxe/Drill with Hot Stuff",
+         "Reforge Special Effect": "Grants +1  Mining Speed for every 2 blocks down on the Y-level.",
+         "Common": "",
+         "​Uncommon": "",
+         "​​Rare": "",
+         "​​​Epic": "",
+         "​​​​Legendary": ""
+      },
+      "Ambered": {
+         "Source": "Pickaxe/Drill with Amber Material",
+         "Reforge Special Effect": "Grants +X  Mining Speed.",
+         "Common": "+25  Mining Speed",
+         "​Uncommon": "+31  Mining Speed",
+         "​​Rare": "+38  Mining Speed",
+         "​​​Epic": "+46  Mining Speed",
+         "​​​​Legendary": "+55  Mining Speed"
+      }
+    }
   }
 }
