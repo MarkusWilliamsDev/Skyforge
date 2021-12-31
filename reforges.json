@@ -60,67 +60,99 @@
         }
       },
       "Fast": {
-        "Common" : {
+        "Common": {
           "attack_speed": 10
         },
-        "Uncommon" : {
+        "Uncommon": {
           "attack_speed": 20
         },
-        "Rare" : {
+        "Rare": {
           "attack_speed": 30
         },
-        "Epic" : {
+        "Epic": {
           "attack_speed": 40
         },
-        "Legendary" : {
+        "Legendary": {
           "attack_speed": 50
         },
-        "Mythic" : {
+        "Mythic": {
           "attack_speed": 60
         }
       },
-      "Fair" : {
-        "Common" : {
+      "Fair": {
+        "Common": {
           "strength": 2,
           "crit_chance": 2,
           "crit_damage": 2,
           "intelligence": 2,
           "attack_speed": 2
         },
-        "Uncommon" : {
+        "Uncommon": {
           "strength": 3,
           "crit_chance": 3,
           "crit_damage": 3,
           "intelligence": 3,
           "attack_speed": 3
         },
-        "Rare" : {
+        "Rare": {
           "strength": 4,
           "crit_chance": 4,
           "crit_damage": 4,
           "intelligence": 4,
           "attack_speed": 4
         },
-        "Epic" : {
+        "Epic": {
           "strength": 7,
           "crit_chance": 7,
           "crit_damage": 7,
           "intelligence": 7,
           "attack_speed": 7
         },
-        "Legendary" : {
+        "Legendary": {
           "strength": 10,
           "crit_chance": 10,
           "crit_damage": 10,
           "intelligence": 10,
           "attack_speed": 10
         },
-        "Mythic" : {
+        "Mythic": {
           "strength": 12,
           "crit_chance": 12,
           "crit_damage": 12,
           "intelligence": 12,
           "attack_speed": 12
+        }
+      },
+      "Epic": {
+        "Common": {
+          "strength": 15,
+          "crit_damage": 10,
+          "attack_speed": 1
+        },
+        "Uncommon": {
+          "strength": 20,
+          "crit_damage": 15,
+          "attack_speed": 2
+        },
+        "Rare": {
+          "strength": 25,
+          "crit_damage": 20,
+          "attack_speed": 4
+        },
+        "Epic": {
+          "strength": 32,
+          "crit_damage": 27,
+          "attack_speed": 7
+        },
+        "Legendary": {
+          "strength": 40,
+          "crit_damage": 35,
+          "attack_speed": 10
+        },
+        "Mythic": {
+          "strength": 50,
+          "crit_damage": 45,
+          "attack_speed": 15
         }
       }
     }
