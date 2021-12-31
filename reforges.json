@@ -6,11 +6,26 @@
           "strength": 3,
           "attack_speed": 8
         },
-        "​Uncommon": "+5  Str+10%  AS",
-        "​​Rare": "+7  Str+15%  AS",
-        "​​​Epic": "+10  Str+20%  AS",
-        "​​​​Legendary": "+15  Str+25%  AS",
-        "​​​​​Mythic": "+20  Str+30%  AS"
+        "​Uncommon": {
+          "strength": 5,
+          "attack_speed": 10
+        },
+        "Rare": {
+          "strength": 7,
+          "attack_speed": 15
+        },
+        "​​​Epic": {
+          "strength": 10,
+          "attack_speed": 20
+        },
+        "​​​​Legendary": {
+          "strength": 15,
+          "attack_speed": 25
+        },
+        "​​​​​Mythic": {
+          "strength": 20,
+          "attack_speed": 30
+        }
       },
       "Odd": {
         "Common": "+12%  CC+10%  CD-5  Int",
