@@ -150,6 +150,80 @@
          "​​​​Legendary": "+10  Str+20%  CC+50  Int+10%  CD",
          "​​​​​Mythic": "+15  Str+25%  CC+60  Int+15%  CD"
       }
-   }
+   },
+   "armor": {
+      "Clean": {
+        "Common": "+5  HP+5  Def+2  CC",
+        "​Uncommon": "+7  HP+7  Def+4  CC",
+        "​​Rare": "+10  HP+10  Def+6  CC",
+        "​​​Epic": "+15  HP+15  Def+8  CC",
+        "​​​​Legendary": "+20  HP+20  Def+10  CC",
+        "​​​​​Mythic": "+25  HP+25  Def+12  CC"
+      },
+      "Fierce": {
+        "Common": "+2  Str+2%  CC+4%  CD",
+        "​Uncommon": "+4  Str+3%  CC+7%  CD",
+        "​​Rare": "+6  Str+4%  CC+10%  CD",
+        "​​​Epic": "+8  Str+5%  CC+14%  CD",
+        "​​​​Legendary": "+10  Str+6%  CC+18%  CD",
+        "​​​​​Mythic": "+12  Str+8%  CC+24%  CD"
+      },
+      "Heavy": {
+        "Common": "+25  Def-1  Spd-1%  CD",
+        "​Uncommon": "+35  Def-1  Spd-2%  CD",
+        "​​Rare": "+50  Def-1  Spd-2%  CD",
+        "​​​Epic": "+65  Def-1  Spd-3%  CD",
+        "​​​​Legendary": "+80  Def-1  Spd-5%  CD",
+        "​​​​​Mythic": "+110  Def-1  Spd-7%  CD"
+      },
+      "Light": {
+        "Common": "+5  HP+1  Def+1  Spd+1%  CC+1%  CD+1%  AS",
+        "​Uncommon": "+7  HP+2  Def+2  Spd+1%  CC+2%  CD+2%  AS",
+        "​​Rare": "+10  HP+3  Def+3  Spd+2%  CC+3%  CD+3%  AS",
+        "​​​Epic": "+15  HP+4  Def+4  Spd+2%  CC+4%  CD+4%  AS",
+        "​​​​Legendary": "+20  HP+5  Def+5  Spd+3%  CC+5%  CD+5%  AS",
+        "​​​​​Mythic": "+25  HP+6  Def+6  Spd+3%  CC+6%  CD+6%  AS"
+      },
+      "Mythic": {
+        "Common": "+2  HP+2  Def+2  Str+2  Spd+1%  CC+20  Int",
+        "​Uncommon": "+4  HP+4  Def+4  Str+2  Spd+2%  CC+25  Int",
+        "​​Rare": "+6  HP+6  Def+6  Str+2  Spd+3%  CC+30  Int",
+        "​​​Epic": "+8  HP+8  Def+8  Str+2  Spd+4%  CC+40  Int",
+        "​​​​Legendary": "+10  HP+10  Def+10  Str+2  Spd+5%  CC+50  Int",
+        "​​​​​Mythic": "+12  HP+12  Def+12  Str+2  Spd+6%  CC+60  Int"
+      },
+      "Pure": {
+        "Common": "+2  HP+2  Def+2  Str+1  Spd+2%  CC+2%  CD+1%  AS+2  Int",
+        "​Uncommon": "+3  HP+3  Def+3  Str+1  Spd+4%  CC+3%  CD+1%  AS+3  Int",
+        "​​Rare": "+4  HP+4  Def+4  Str+1  Spd+6%  CC+4%  CD+2%  AS+4  Int",
+        "​​​Epic": "+6  HP+6  Def+6  Str+1  Spd+8%  CC+6%  CD+3%  AS+6  Int",
+        "​​​​Legendary": "+8  HP+8  Def+8  Str+1  Spd+10%  CC+8  CD+4%  AS+8  Int",
+        "​​​​​Mythic": "+10  HP+10  Def+10  Str+1  Spd+12%  CC+8  CD+5%  AS+10  Int"
+      },
+      "Smart": {
+        "Common": "+4  HP+4  Def+20  Int",
+        "​Uncommon": "+6  HP+6  Def+40  Int",
+        "​​Rare": "+9  HP+9  Def+60  Int",
+        "​​​Epic": "+12  HP+12  Def+80  Int",
+        "​​​​Legendary": "+15  HP+15  Def+100  Int",
+        "​​​​​Mythic": "+20  HP+20  Def+120  Int"
+      },
+      "Titanic": {
+        "Common": "+10  HP+10  Def",
+        "​Uncommon": "+15  HP+15  Def",
+        "​​Rare": "+20  HP+20  Def",
+        "​​​Epic": "+25  HP+25  Def",
+        "​​​​Legendary": "+35  HP+35  Def",
+        "​​​​​Mythic": "+50  HP+50  Def"
+      },
+      "Wise": {
+        "Common": "+6  HP+1  Spd+25  Int",
+        "​Uncommon": "+8  HP+1  Spd+50  Int",
+        "​​Rare": "+10  HP+1  Spd+75  Int",
+        "​​​Epic": "+12  HP+2  Spd+100  Int",
+        "​​​​Legendary": "+15  HP+2  Spd+125  Int",
+        "​​​​​Mythic": "+20  HP+3  Spd+150  Int"
+      }
+    }
   }
 }
