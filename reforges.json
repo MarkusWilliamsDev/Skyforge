@@ -1,160 +1,81 @@
 {
   "reforge_category": {
-    "sword_and_rod": { 
+    "sword_and_rod": {
       "Gentle": {
         "Common": {
           "strength": 3,
           "attack_speed": 8
         },
-        "Uncommon": {
-          "strength": 5,
-          "attack_speed": 10
-        },
-        "Rare": {
-          "strength": 7,
-          "attack_speed": 15 
-        },
-        "Epic": {
-          "strength": 10,
-          "attack_speed": 20
-        },
-        "Legendary": {
-          "strength": 15,
-          "attack_speed": 25
-        },
-        "Mythic": {
-          "strength": 20,
-          "attack_speed": 30
-        }
+        "​Uncommon": "+5  Str+10%  AS",
+        "​​Rare": "+7  Str+15%  AS",
+        "​​​Epic": "+10  Str+20%  AS",
+        "​​​​Legendary": "+15  Str+25%  AS",
+        "​​​​​Mythic": "+20  Str+30%  AS"
       },
       "Odd": {
-        "Common": {
-          "crit_chance": 12,
-          "crit_damage": 10,
-          "intelligence": -5 
-        },
-        "Uncommon": {
-          "crit_chance": 15,
-          "crit_damage": 15,
-          "intelligence": -10 
-        },
-        "Rare": {  
-          "crit_chance": 15,
-          "crit_damage": 15,
-          "intelligence": -18 
-        },
-        "Epic": {
-          "crit_chance": 20,
-          "crit_damage": 22,
-          "intelligence": -32 
-        },
-        "Legendary": {
-          "crit_chance": 25,
-          "crit_damage": 30,
-          "intelligence": -50 
-        },
-        "Mythic": {
-          "crit_chance": 30,
-          "crit_damage": 40,
-          "intelligence": -75 
-        }
+        "Common": "+12%  CC+10%  CD-5  Int",
+        "​Uncommon": "+15%  CC+15%  CD-10  Int",
+        "​​Rare": "+15%  CC+15%  CD-18  Int",
+        "​​​Epic": "+20%  CC+22%  CD-32  Int",
+        "​​​​Legendary": "+25%  CC+30%  CD-50  Int",
+        "​​​​​Mythic": "+30%  CC+40%  CD-75  Int"
       },
       "Fast": {
-        "Common": {
-          "attack_speed": 10
-        },
-        "Uncommon": {
-          "attack_speed": 20
-        },
-        "Rare": {
-          "attack_speed": 30
-        },
-        "Epic": {
-          "attack_speed": 40
-        },
-        "Legendary": {
-          "attack_speed": 50
-        },
-        "Mythic": {
-          "attack_speed": 60
-        }
+        "Common": "+10%  AS",
+        "​Uncommon": "+20%  AS",
+        "​​Rare": "+30%  AS",
+        "​​​Epic": "+40%  AS",
+        "​​​​Legendary": "+50%  AS",
+        "​​​​​Mythic": "+60%  AS"
       },
       "Fair": {
-        "Common": {
-          "strength": 2,
-          "crit_chance": 2,
-          "crit_damage": 2,
-          "intelligence": 2,
-          "attack_speed": 2
-        },
-        "Uncommon": {
-          "strength": 3,
-          "crit_chance": 3,
-          "crit_damage": 3,
-          "intelligence": 3,
-          "attack_speed": 3
-        },
-        "Rare": {
-          "strength": 4,
-          "crit_chance": 4,
-          "crit_damage": 4,
-          "intelligence": 4,
-          "attack_speed": 4
-        },
-        "Epic": {
-          "strength": 7,
-          "crit_chance": 7,
-          "crit_damage": 7,
-          "intelligence": 7,
-          "attack_speed": 7
-        },
-        "Legendary": {
-          "strength": 10,
-          "crit_chance": 10,
-          "crit_damage": 10,
-          "intelligence": 10,
-          "attack_speed": 10
-        },
-        "Mythic": {
-          "strength": 12,
-          "crit_chance": 12,
-          "crit_damage": 12,
-          "intelligence": 12,
-          "attack_speed": 12
-        }
+        "Common": "+2  Str+2%  CC+2%  CD+2  Int+2%  AS",
+        "​Uncommon": "+3  Str+3%  CC+3%  CD+3  Int+3%  AS",
+        "​​Rare": "+4  Str+4%  CC+4%  CD+4  Int+4%  AS",
+        "​​​Epic": "+7  Str+7%  CC+7%  CD+7  Int+7%  AS",
+        "​​​​Legendary": "+10  Str+10%  CC+10%  CD+10  Int+10%  AS",
+        "​​​​​Mythic": "+12  Str+12%  CC+12%  CD+12  Int+12%  AS"
       },
       "Epic": {
-        "Common": {
-          "strength": 15,
-          "crit_damage": 10,
-          "attack_speed": 1
-        },
-        "Uncommon": {
-          "strength": 20,
-          "crit_damage": 15,
-          "attack_speed": 2
-        },
-        "Rare": {
-          "strength": 25,
-          "crit_damage": 20,
-          "attack_speed": 4
-        },
-        "Epic": {
-          "strength": 32,
-          "crit_damage": 27,
-          "attack_speed": 7
-        },
-        "Legendary": {
-          "strength": 40,
-          "crit_damage": 35,
-          "attack_speed": 10
-        },
-        "Mythic": {
-          "strength": 50,
-          "crit_damage": 45,
-          "attack_speed": 15
-        }
-      }
-    }
+        "Common": "+15  Str+10%  CD+1%  AS",
+        "​Uncommon": "+20  Str+15%  CD+2%  AS",
+        "​​Rare": "+25  Str+20%  CD+4%  AS",
+        "​​​Epic": "+32  Str+27%  CD+7%  AS",
+        "​​​​Legendary": "+40  Str+35%  CD10%  AS",
+        "​​​​​Mythic": "+50  Str+45%  CD+15%  AS"
+      },
+      "Sharp": {
+        "Common": "+10%  CC+20%  CD",
+        "​Uncommon": "+12%  CC+30%  CD",
+        "​​Rare": "+14%  CC+40%  CD",
+        "​​​Epic": "+17%  CC+55%  CD",
+        "​​​​Legendary": "+20%  CC+75%  CD",
+        "​​​​​Mythic": "+25%  CC+90%  CD"
+      },
+      "Heroic": {
+        "Common": "+15  Str+40  Int+1%  AS",
+        "​Uncommon": "+20  Str+50  Int+2%  AS",
+        "​​Rare": "+25  Str+65  Int+2%  AS",
+        "​​​Epic": "+32  Str+80  Int+3%  AS",
+        "​​​​Legendary": "+40  Str+100  Int+5%  AS",
+        "​​​​​Mythic": "+50  Str+125  Int+7%  AS"
+      },
+      "Spicy": {
+        "Common": "+2  Str+1%  CC+25%  CD+1%  AS",
+        "​Uncommon": "+3  Str+1%  CC+35%  CD+2%  AS",
+        "​​Rare": "+4  Str+1%  CC+45%  CD+4%  AS",
+        "​​​Epic": "+7  Str+1%  CC+60%  CD+7%  AS",
+        "​​​​Legendary": "+10  Str+1%  CC+80%  CD+10%  AS",
+        "​​​​​Mythic": "+12  Str+1%  CC+100%  CD+15%  AS"
+      },
+      "Legendary": {
+        "Common": "+3  Str+5%  CC+5%  CD+5  Int+2%  AS",
+        "​Uncommon": "+7  Str+7%  CC+10%  CD+8  Int+3%  AS",
+        "​​Rare": "+12  Str+9%  CC+15%  CD+12  Int+5%  AS",
+        "​​​Epic": "+18  Str+12%  CC+22%  CD+18  Int+7%  AS",
+        "​​​​Legendary": "+25  Str+15%  CC+28%  CD+25  Int+10%  AS",
+        "​​​​​Mythic": "+32  Str+18%  CC+36%  CD+35  Int+15%  AS"
+      }  
+    } 
   }
 }
